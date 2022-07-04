@@ -1,18 +1,16 @@
 # Awesome-Notion
-Utils of Notion
-
 ---
 
 [TOC] 
 
-+++
+---
 
 ## Notion Beautify
 
 |       Project       | Link | Brief Description |
 | :-----------------: | :----: | :-----------: |
-| [Notion-style Avatar](#Notion-style Avatar) | <https://notion-avatar.vercel.app/zh> | 一键生成notion风格头像 |
-| [Notion Themes](#Notion Themes) | https://notionthemes.yudax.me | Make your Notion pretty with custom themes |
+| [Notion-style Avatar](#notion-style-avatar) | <https://notion-avatar.vercel.app/zh> | 一键生成notion风格头像 |
+| [Notion Themes](#notion-themes) | https://notionthemes.yudax.me | Make your Notion pretty with custom themes |
 
 ### Notion-style Avatar
 
